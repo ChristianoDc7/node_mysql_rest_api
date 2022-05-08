@@ -14,10 +14,10 @@ you must run first :
 It will install all dependencies that this projects needs
 
 ### Configure .env file like this example
-PORT = 4000 or the port that you want to launch the api server
-HOST = your mysql host
-USER = your mysql username
-PASSWORD = your mysql password
+PORT = 4000 or the port that you want to launch the api server,  
+HOST = your mysql host,  
+USER = your mysql username,  
+PASSWORD = your mysql password,  
 DATABASE = api
 
 ### do the migration

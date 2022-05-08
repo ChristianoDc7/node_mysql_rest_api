@@ -2,10 +2,6 @@
 Restfull api of Programming Languages using NodeJS Express and MySql
 This Project consist to Manage Users : Create , Read , Update , Delete programming language with their github and tiobe rank
 
-If you want to test this project :
-firstly, you must launch npm install to install dependecies
-secondly, you should launch the migration.sql to your mysql databases
-and finally you can launch the app with node index.js or nodemon instead if you have
 
 # Getting Started
 If you wanna clone and test this project , 
